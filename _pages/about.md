@@ -49,7 +49,7 @@ Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 🏫 Educations
-- *2021.09 - 2025.06*, Undergraduate, Jiujiang University. 
+- *2021.09 - 2025.06*, Bachelor, Jiujiang University. 
 
 # 📖 Publications 
 [1] Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang. Micro many-objective evolutionary algorithm with knowledge transfer, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024, 9(1): 43-56.
