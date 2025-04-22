@@ -55,7 +55,7 @@ Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 <!--# 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
 
-# 📝 Publications 
+# 📄 Publications 
 [1] Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang. Micro many-objective evolutionary algorithm with knowledge transfer, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024, 9(1): 43-56.
 
 [2] **Zhongtian Luo**, Jianpeng Xiong, Hu Peng, Gaosheng Zhan, Qingfu Zhang. A micro dynamic multi-objective evolutionary algorithm for small-scale smart greenhouse with low-power microprocessor, Genetic and Evolutionary Computation Conference (GECCO’ 24), ACM, 2024, p. 687–690.
