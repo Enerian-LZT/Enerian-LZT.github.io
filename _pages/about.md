@@ -25,22 +25,18 @@ Hi, here is Zhongtian Luo's homepage.
 - *2025.04*: &nbsp;🎉🎉 *Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor* has been accepted at ESWA. 
 
 # 📝 Bulletin  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/eoh.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Evolution of Heuristics: Towards Efficient Automatic Algorithm Design using Large Language Model](https://arxiv.org/abs/2401.02051)
-
-**Fei Liu**, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/μMaOEA.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+    Micro many-objective evolutionary algorithm with knowledge transfer
+    Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
+  </div>
 </div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GECCO' 24</div><img src='images/eoh.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Evolution of Heuristics: Towards Efficient Automatic Algorithm Design using Large Language Model](https://arxiv.org/abs/2401.02051)
-
-**Fei Liu**, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang
-</div>
+    
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GECCO' 24</div><img src='images/μDMOEA.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+    A micro dynamic multi-objective evolutionary algorithm for small-scale smart greenhouse with low-power microprocessor
+    **Zhongtian Luo**, Jianpeng Xiong, Hu Peng, Gaosheng Zhan, Qingfu Zhang
+  </div>
 </div>
 
 <!--## 🎖 Honors and Awards
@@ -58,14 +54,14 @@ Hi, here is Zhongtian Luo's homepage.
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
 
 # 📝 Publications 
-1. Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang. Micro many-objective evolutionary algorithm with knowledge transfer, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024, 9(1): 43-56.
+[1] Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang. Micro many-objective evolutionary algorithm with knowledge transfer, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024, 9(1): 43-56.
 
-2. **Zhongtian Luo**, Jianpeng Xiong, Hu Peng, Gaosheng Zhan, Qingfu Zhang. A micro dynamic multi-objective evolutionary algorithm for small-scale smart greenhouse with low-power microprocessor, Genetic and Evolutionary Computation Conference (GECCO’ 24), ACM, 2024, p. 687–690.
+[2] **Zhongtian Luo**, Jianpeng Xiong, Hu Peng, Gaosheng Zhan, Qingfu Zhang. A micro dynamic multi-objective evolutionary algorithm for small-scale smart greenhouse with low-power microprocessor, Genetic and Evolutionary Computation Conference (GECCO’ 24), ACM, 2024, p. 687–690.
     
-3. Hu Peng, Changrong Mei, Sixiang Zhang, **Zhongtian Luo**, Qingfu Zhang, Zhijian Wu. Multi-strategy dynamic multi-objective evolutionary algorithm with hybrid environmental change responses, Swarm and Evolutionary Computation, 2023, 82: 101356.
+[3] Hu Peng, Changrong Mei, Sixiang Zhang, **Zhongtian Luo**, Qingfu Zhang, Zhijian Wu. Multi-strategy dynamic multi-objective evolutionary algorithm with hybrid environmental change responses, Swarm and Evolutionary Computation, 2023, 82: 101356.
 
-4. Hu Peng, Wenwen Xia, **Zhongtian Luo**, Changshou Deng, Hui Wang, Zhijian Wu. A multimodal multi-objective differential evolution with series-parallel combination and dynamic neighbor strategy, Information Sciences, 2024, 678: 120999.
+[4] Hu Peng, Wenwen Xia, **Zhongtian Luo**, Changshou Deng, Hui Wang, Zhijian Wu. A multimodal multi-objective differential evolution with series-parallel combination and dynamic neighbor strategy, Information Sciences, 2024, 678: 120999.
 
-5. Hu Peng, Tian Fang, Jianpeng Xiong, **Zhongtian Luo**, Tao Liu, Zelin Wang. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Expert Systems with Applications, 2024, Accept.
+[5] Hu Peng, Tian Fang, Jianpeng Xiong, **Zhongtian Luo**, Tao Liu, Zelin Wang. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Expert Systems with Applications, 2024, Accept.
 
-6. Lin Liu, Hu Peng, **Zhongtian Luo**, Shi Wu, Xuezhi Yue, Zhijian Wu. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Engineering Applications of Artificial Intelligence, 2025, review.
+[6] Lin Liu, Hu Peng, **Zhongtian Luo**, Shi Wu, Xuezhi Yue, Zhijian Wu. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Engineering Applications of Artificial Intelligence, 2025, review.
