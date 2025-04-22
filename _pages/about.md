@@ -24,7 +24,8 @@ My research interests include Multiobjective Optimization, Evolutionary Computat
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔔 News
-- *2025.04*: &nbsp;🎉🎉 *Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor* has been accepted at ESWA. 
+- *2024.06*: &nbsp;🎉🎉 *Micro many-objective evolutionary algorithm with knowledge transfer* is online in TETCI. 
+- *2024.06*: &nbsp;🎉🎉 *A micro dynamic multi-objective evolutionary algorithm for small-scale smart greenhouse with low-power microprocessor* has been accepted by GECCO’ 24. 
 
 # 📌 Bulletin  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/μMaOEA.png' alt="sym" width="100%"></div></div>
@@ -59,6 +60,6 @@ Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 
 [4] Hu Peng, Wenwen Xia, **Zhongtian Luo**, Changshou Deng, Hui Wang, Zhijian Wu. A multimodal multi-objective differential evolution with series-parallel combination and dynamic neighbor strategy, Information Sciences, 2024, 678: 120999.
 
-[5] Hu Peng, Tian Fang, Jianpeng Xiong, **Zhongtian Luo**, Tao Liu, Zelin Wang. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Expert Systems with Applications, 2024, Accept.
+[5] Hu Peng, Tian Fang, Jianpeng Xiong, **Zhongtian Luo**, Tao Liu, Zelin Wang. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Expert Systems with Applications, 2025, Accept.
 
 [6] Lin Liu, Hu Peng, **Zhongtian Luo**, Shi Wu, Xuezhi Yue, Zhijian Wu. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Engineering Applications of Artificial Intelligence, 2025, review.
