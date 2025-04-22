@@ -26,17 +26,17 @@ Hi, here is Zhongtian Luo's homepage.
 
 # 📝 Bulletin  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/μMaOEA.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-    Micro many-objective evolutionary algorithm with knowledge transfer
-    Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
-  </div>
+<div class='paper-box-text' markdown="1">
+Micro many-objective evolutionary algorithm with knowledge transfer
+Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
+</div>
 </div>
     
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GECCO' 24</div><img src='images/μDMOEA.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-    A micro dynamic multi-objective evolutionary algorithm for small-scale smart greenhouse with low-power microprocessor
-    **Zhongtian Luo**, Jianpeng Xiong, Hu Peng, Gaosheng Zhan, Qingfu Zhang
-  </div>
+<div class='paper-box-text' markdown="1">
+A micro dynamic multi-objective evolutionary algorithm for small-scale smart greenhouse with low-power microprocessor
+**Zhongtian Luo**, Jianpeng Xiong, Hu Peng, Gaosheng Zhan, Qingfu Zhang
+</div>
 </div>
 
 <!--## 🎖 Honors and Awards
