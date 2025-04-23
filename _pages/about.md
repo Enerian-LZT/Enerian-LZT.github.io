@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Zhongtian Luo. I received my B.Eng. degree at Jiujiang University under the supervision of [Prof. Hu Peng](https://whuph.github.io/).
+Hi, I'm Zhongtian Luo (罗中天). I received my B.Eng. degree at Jiujiang University under the supervision of [Prof. Hu Peng](https://whuph.github.io/).
 <!-- Currently, I'm pursuing my Mphil at City University of Hong Kong (CityU) under the supervision of [Prof. Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) -->
 
 My research interests include Multiobjective Optimization, Evolutionary Computation, Machine Learning, Large Langguage Model (LLM).
@@ -25,7 +25,7 @@ My research interests include Multiobjective Optimization, Evolutionary Computat
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔔 News
-- *2024.06*: &nbsp;🎉🎉 *Micro many-objective evolutionary algorithm with knowledge transfer* is online in TETCI. 
+- *2024.11*: &nbsp;🎉🎉 *Micro many-objective evolutionary algorithm with knowledge transfer* won the Best Paper Award (Ranked 1st) at the 3rd Jiangxi Intelligent Computation Conference. 
 - *2024.06*: &nbsp;🎉🎉 *A micro dynamic multi-objective evolutionary algorithm for small-scale smart greenhouse with low-power microprocessor* has been accepted by GECCO’ 24. 
 
 # 📌 Bulletin  
