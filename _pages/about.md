@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Zhongtian Luo (罗中天). I received my B.Eng. degree at Jiujiang University under the supervision of [Prof. Hu Peng](https://whuph.github.io/).
+Hi, I'm Zhongtian Luo. I received my B.Eng. degree at Jiujiang University under the supervision of [Prof. Hu Peng](https://whuph.github.io/).
 <!-- Currently, I'm pursuing my Mphil at City University of Hong Kong (CityU) under the supervision of [Prof. Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) -->
 
 My research interests include Multiobjective Optimization, Evolutionary Computation, Machine Learning, Large Langguage Model (LLM).
@@ -29,7 +29,7 @@ My research interests include Multiobjective Optimization, Evolutionary Computat
 - *2024.06*: &nbsp;🎉🎉 *A micro dynamic multi-objective evolutionary algorithm for small-scale smart greenhouse with low-power microprocessor* has been accepted by GECCO’ 24. 
 
 # 📌 Bulletin  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI</div><img src='images/μMaOEA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TETCI</div><img src='images/μMaOEA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Micro many-objective evolutionary algorithm with knowledge transfer*
 
