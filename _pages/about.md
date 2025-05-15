@@ -61,6 +61,6 @@ Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 
 [4] Hu Peng, Wenwen Xia, **Zhongtian Luo**, Changshou Deng, Hui Wang, Zhijian Wu. A multimodal multi-objective differential evolution with series-parallel combination and dynamic neighbor strategy, Information Sciences, 2024, 678: 120999.
 
-[5] Hu Peng, Tian Fang, Jianpeng Xiong, **Zhongtian Luo**, Tao Liu, Zelin Wang. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Expert Systems with Applications, 2025, Accept.
+[5] Hu Peng, Tian Fang, Jianpeng Xiong, **Zhongtian Luo**, Tao Liu, Zelin Wang. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Expert Systems with Applications, 2025, 282: 127644.
 
 [6] Lin Liu, Hu Peng, **Zhongtian Luo**, Shi Wu, Xuezhi Yue, Zhijian Wu. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Engineering Applications of Artificial Intelligence, 2025, review.
