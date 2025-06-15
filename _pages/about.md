@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm Zhongtian Luo. I received my B.Eng. degree at Jiujiang University under the supervision of [Prof. Hu Peng](https://whuph.github.io/).
-<!-- Currently, I'm pursuing my Mphil at City University of Hong Kong (CityU) under the supervision of [Prof. Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) -->
+<!-- Currently, I'm pursuing my Mphil at Lingnan University under the supervision of [Prof. Jialin Liu](http://www.liujialin.tech/index.html) and [Prof. Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) -->
 
 My research interests include Multi-Objective Optimization, Evolutionary Computation, Machine Learning, Large Langguage Model (LLM).
 
