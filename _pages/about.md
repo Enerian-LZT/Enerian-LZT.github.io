@@ -53,7 +53,7 @@ Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 - *2025.09 - 2027.06*, MPhil, Lingnan University. 
 - *2021.09 - 2025.06*, Bachelor, Jiujiang University.
 
-# 🎓 Academic Experience
+# 🎓 Academic Experiences
 - **Reviewer** - PRICAI 2025: 22nd Pacific Rim International Conference on Artificial Intelligence (CCF-C) 
 
 # 📖 Publications 
