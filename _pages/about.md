@@ -72,5 +72,5 @@ Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 <script 
   type="text/javascript" 
   id="clstr_globe" 
-  src="//clustrmaps.com/globe.js?d=cSWXSmzRd68LNuY8ixpICTFqXp12Ssn4iS_J1IxLqA8&w=200&h=100">
+  src="//clustrmaps.com/globe.js?d=cSWXSmzRd68LNuY8ixpICTFqXp12Ssn4iS_J1IxLqA8&w=150&h=80">
 </script>
