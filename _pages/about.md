@@ -57,7 +57,7 @@ Hu Peng (***Supervisor***)), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 - **Reviewer** - PRICAI 2025: 22nd Pacific Rim International Conference on Artificial Intelligence (CCF-C) 
 
 # 📖 Publications 
-[1] Hu Peng (*Supervisor*), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang. Micro many-objective evolutionary algorithm with knowledge transfer, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024, 9(1): 43-56.
+[1] Hu Peng (***Supervisor***), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang. Micro many-objective evolutionary algorithm with knowledge transfer, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024, 9(1): 43-56.
 
 [2] **Zhongtian Luo**, Jianpeng Xiong, Hu Peng, Gaosheng Zhan, Qingfu Zhang. A micro dynamic multi-objective evolutionary algorithm for small-scale smart greenhouse with low-power microprocessor, Genetic and Evolutionary Computation Conference (GECCO’ 24), ACM, 2024, p. 687–690.
     
@@ -69,4 +69,10 @@ Hu Peng (***Supervisor***)), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 
 [6] Lin Liu, Hu Peng, **Zhongtian Luo**, Shi Wu, Xuezhi Yue, Zhijian Wu. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Engineering Applications of Artificial Intelligence, 2025, review.
 
-[77] Lin Liu, Hu Peng, **Zhongtian Luo**, Shi Wu, Xuezhi Yue, Zhijian Wu. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Engineering Applications of Artificial Intelligence, 2025, review.
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <script 
+    type="text/javascript" 
+    id="clstr_globe" 
+    src="//clustrmaps.com/globe.js?d=cSWXSmzRd68LNuY8ixpICTFqXp12Ssn4iS_J1IxLqA8&w=150&h=80">
+  </script>
+</div>
