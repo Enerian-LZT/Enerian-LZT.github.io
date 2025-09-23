@@ -69,3 +69,4 @@ Hu Peng (***Supervisor***)), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 
 [6] Lin Liu, Hu Peng, **Zhongtian Luo**, Shi Wu, Xuezhi Yue, Zhijian Wu. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Engineering Applications of Artificial Intelligence, 2025, review.
 
+[77] Lin Liu, Hu Peng, **Zhongtian Luo**, Shi Wu, Xuezhi Yue, Zhijian Wu. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Engineering Applications of Artificial Intelligence, 2025, review.
