@@ -33,7 +33,7 @@ My research interests include Multi-Agent System (MAS), Large Language Model (LL
 <div class='paper-box-text' markdown="1">
 *Micro many-objective evolutionary algorithm with knowledge transfer*
 
-Hu Peng (___Supervisor___), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
+Hu Peng (**Supervisor**), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 </div>
 </div>
     
