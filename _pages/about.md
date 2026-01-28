@@ -33,7 +33,7 @@ My research interests include Deep Reinforcement Learning (DRL), Evolutionary Mu
 <div class='paper-box-text' markdown="1">
 *Micro many-objective evolutionary algorithm with knowledge transfer*
 
-Hu Peng (***Supervisor***), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
+Hu Peng(***Supervisor***), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 </div>
 </div>
     
@@ -50,14 +50,15 @@ Hu Peng (***Supervisor***), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 🏫 Educations
-- *2025.09 - 2027.06*, MPhil, Lingnan University. 
+- *2025.10 - 2027.10*, MPhil, Hong Kong Lingnan University. 
 - *2021.09 - 2025.06*, Bachelor, Jiujiang University.
 
 # 🎓 Experiences
 - **Reviewer** - PRICAI 2025: 22nd Pacific Rim International Conference on Artificial Intelligence (CCF-C) 
 
+
 # 📖 Publications 
-[1] Hu Peng (***Supervisor***), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang. Micro many-objective evolutionary algorithm with knowledge transfer, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024, 9(1): 43-56.
+[1] Hu Peng(***Supervisor***), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang. Micro many-objective evolutionary algorithm with knowledge transfer, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024, 9(1): 43-56.
 
 [2] **Zhongtian Luo**, Jianpeng Xiong, Hu Peng, Gaosheng Zhan, Qingfu Zhang. A micro dynamic multi-objective evolutionary algorithm for small-scale smart greenhouse with low-power microprocessor, Genetic and Evolutionary Computation Conference (GECCO’ 24), ACM, 2024, p. 687–690.
     
