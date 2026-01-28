@@ -67,7 +67,9 @@ Hu Peng (***Supervisor***), **Zhongtian Luo**, Tian Fang, and Qingfu Zhang
 
 [5] Hu Peng, Tian Fang, Jianpeng Xiong, **Zhongtian Luo**, Tao Liu, Zelin Wang. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Expert Systems with Applications, 2025, 282: 127644.
 
-[6] Lin Liu, Hu Peng, **Zhongtian Luo**, Shi Wu, Xuezhi Yue, Zhijian Wu. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Engineering Applications of Artificial Intelligence, 2025, review.
+[6] Lin Liu, Hu Peng, **Zhongtian Luo**, Shi Wu, Xuezhi Yue, Zhijian Wu. Micro multi-objective genetic algorithm with information fitting strategy for low-power microprocessor, Information Sciences, 2026, review.
+
+[7] Hu Peng, Zhanyan Cai, Mengfan Li, **Zhongtian Luo**, Jing Wang. A Squeeze-and-Excitation Framework for Multimodal Multi-objective Optimization, IEEE Transactions on Artificial Intelligence, 2026, review.
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <script 
